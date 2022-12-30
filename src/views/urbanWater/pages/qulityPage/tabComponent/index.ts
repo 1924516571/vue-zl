@@ -1,0 +1,6 @@
+export {default as FactorsChart} from './FactorsChart.vue'
+export {default as Trend} from './Trend.vue'
+export {default as Task} from './Task.vue'
+export {default as TransferFile} from './TransferFile.vue'
+export {default as TransferPlan} from './TransferPlan.vue'
+export {default as WaterTrend} from './WaterTrend.vue'
